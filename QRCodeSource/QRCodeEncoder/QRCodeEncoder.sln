@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCodeEncoderDemo", "QRCodeEncoderDemo\QRCodeEncoderDemo.csproj", "{3B5F0E41-C9E3-4C39-822A-B52991800B9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCodeEncoderLibrary", "QRCodeEncoderLibrary\QRCodeEncoderLibrary.csproj", "{D2FF4000-FD83-4557-98F5-1FB66144F1CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeConsoleDemo", "QRCodeConsoleDemo\QRCodeConsoleDemo.csproj", "{F395D259-AD73-4EF5-83F5-5BB46B5434DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5F0E41-C9E3-4C39-822A-B52991800B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5F0E41-C9E3-4C39-822A-B52991800B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5F0E41-C9E3-4C39-822A-B52991800B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5F0E41-C9E3-4C39-822A-B52991800B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FF4000-FD83-4557-98F5-1FB66144F1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FF4000-FD83-4557-98F5-1FB66144F1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FF4000-FD83-4557-98F5-1FB66144F1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FF4000-FD83-4557-98F5-1FB66144F1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F395D259-AD73-4EF5-83F5-5BB46B5434DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F395D259-AD73-4EF5-83F5-5BB46B5434DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F395D259-AD73-4EF5-83F5-5BB46B5434DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F395D259-AD73-4EF5-83F5-5BB46B5434DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F6976C-D83D-4FE4-9A15-FB2D4FB3BE31}
+	EndGlobalSection
+EndGlobal
