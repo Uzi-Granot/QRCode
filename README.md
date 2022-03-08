@@ -1,5 +1,5 @@
 # QRCode
-# QR Code Encoder and Decoder C# Class Library for VS 2022 .NET 6.0 (Version 3.0.0)
+# QR Code Encoder and Decoder C# Class Library for VS 2022 .NET 6.0 (Version 3.1.0)
 
 The QR Code libraries allows your program to create (encode) QR Code image or, 
 read (decode) an image containing one or more QR Codes. The attached source code 
